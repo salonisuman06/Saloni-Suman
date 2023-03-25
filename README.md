@@ -102,6 +102,7 @@ Bio:
   <a href="https://leetcode.com/salonisuman06/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="12%" alt="leetcode"/></a>
   <a href="https://gitlab.com/salonisuman06"><img src="https://img.icons8.com/color/96/000000/gitlab.png" alt="gitlab"/></a>
     <a href="https://www.commudle.com/users/salonisuman06"><img src="https://json.commudle.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3UzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c793a76a579714d72bf7e51b0fe9d4d13640a460/commudle-logo-full.png"width="25%" alt="commudle"/></a>
+  
   <a href="https://developers.google.com/profile/u/salonisuman06"><img src="https://www.gstatic.com/devrel-devsite/prod/ve286fa3f99aa90bc7ef7460968844e5bb93251ce750a58802f281151c87037d6/developers/images/lockup.svg" width="29%" alt="google developers"/></a>
   <a href="https://gitlab.com/salonisuman06"><img src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_dark_horizontal_097s7oa.svg" width="50%" alt="featured in gdsc"/></a>
 </p>

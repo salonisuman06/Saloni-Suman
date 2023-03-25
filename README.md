@@ -9,28 +9,28 @@ Bio:
     Education: "Bachelors (Honours) Computer Science."
     Location: "University of Delhi, India"
     Experience: "Volunteer @GDG Noida
-                 Blockchain Developer|Intern @Fastfindfirm
-                 Data Science|Intern @Fastfindfirm
-                 Cloud Computing|Intern @Fastfindfirm
+                 Blockchain Developer|Intern    @Fastfindfirm
+                 Data Science|Intern            @Fastfindfirm
+                 Cloud Computing|Intern         @Fastfindfirm
                  Artificial Intelligence|Intern @Fastfindfirm
-                 Machine Learning|Intern @Fastfindfirm
-                 Software Developer|Intern @Fastfindfirm
-                 UI/UX Designer|Intern @All About Programming
-                 UI/UX Designer|Intern @Codedu Community
-                 Campus Ambassador @International MUN
-                 Internshala Student Partner @Internshala
-                 Flutter Developer|Intern @XcitEducation Worldwide
-                 Web Development|Intern @Intern'spedia
-                 Ninja Entrepreneur @Coding Ninjas
-                 Content Writer|Intern @Icy Tales
-                 Web Developer|Intern @Lets Grow More
-                 App Developer|Intern @Lets Grow More
-                 Robotics Developer|Intern @Kodacy
-                 Hr Executive @LUDIFU (Let Us Do It For U)
-                 Social Media Marketing @LUDIFU (Let Us Do It For U)
-                 Business Development @LUDIFU (Let Us Do It For U)
-                 HR Employer Branding @LUDIFU (Let Us Do It For U)
-                 Marketing Specialist @LUDIFU (Let Us Do It For U)"
+                 Machine Learning|Intern        @Fastfindfirm
+                 Software Developer|Intern      @Fastfindfirm
+                 UI/UX Designer|Intern          @All About Programming
+                 UI/UX Designer|Intern          @Codedu Community
+                 Campus Ambassador              @International MUN
+                 Internshala Student Partner    @Internshala
+                 Flutter Developer|Intern       @XcitEducation Worldwide
+                 Web Development|Intern         @Intern'spedia
+                 Ninja Entrepreneur             @Coding Ninjas
+                 Content Writer|Intern          @Icy Tales
+                 Web Developer|Intern           @Lets Grow More
+                 App Developer|Intern           @Lets Grow More
+                 Robotics Developer|Intern      @Kodacy
+                 Hr Executive                   @LUDIFU (Let Us Do It For U)
+                 Social Media Marketing         @LUDIFU (Let Us Do It For U)
+                 Business Development           @LUDIFU (Let Us Do It For U)
+                 HR Employer Branding           @LUDIFU (Let Us Do It For U)
+                 Marketing Specialist           @LUDIFU (Let Us Do It For U)"
     Fun Fact: "Photographer"
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

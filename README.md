@@ -110,6 +110,14 @@ Bio:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h1><b>🔥My Github Stats🔥 </b></h1>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salonisuman06&show_icons=true&locale=en&layout=compact" alt="salonisuman06" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salonisuman06&show_icons=true&locale=en" alt="salonisuman06" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonisuman06&" alt="salonisuman06" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2><i>Random dev joke for you! </i></h2>
 
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a> <!-- <a href="https://readme-jokes.vercel.app"> -->
@@ -121,3 +129,4 @@ Bio:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="Center"> Thank You guys! :></h1>
+<h6 align="Center"> ©all rights reserved</h6>

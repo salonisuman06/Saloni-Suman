@@ -93,7 +93,7 @@ Bio:
 
 <h2 align="center"> Connect with me: </h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/saloni-suman-35582a237"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://medium.com/@salonisuman06"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   <a href="https://github.com/salonisuman06"><img src="https://img.icons8.com/fluent/96/000000/github.png" alt="darkwood"/></a>
